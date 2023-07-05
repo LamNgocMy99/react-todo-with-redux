@@ -1,0 +1,22 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+
+body {
+  background-image: linear-gradient(to right,  #3583d9 , #02cffd);
+}
+.container {
+  background-color: #cfe8fc;
+  margin-top: 50px;
+  height: 80vh;
+}
+
+
+.list-group-item{
+  display: flex !important;
+  justify-content: space-between;
+  align-items: center;
+}
